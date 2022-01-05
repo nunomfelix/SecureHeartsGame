@@ -1,7 +1,7 @@
 # Security1920-g20
 
-Projeto de segurança Grupo 20
-Projeto feito em python 3.7
+Secure Hearts Game Implementation using Blockchain
+
 Functionalities implemented:
 
 • Protection (encryption, authentication, etc.) of the
