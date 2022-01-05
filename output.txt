@@ -1,0 +1,9 @@
+[32mGenerating genesis block..[0m
+Connected! time to choose de table
+
+Table 1: ['098081e071044304bbaa0c92bd4aee18', 'e1d912c1e87545b6b8cc5d01161ff406', '24eaafbe71634e0f90aeb98e2d590387'] 
+Table 2: [] 
+Table 3: [] 
+Table 4: [] 
+Table 5: [] 
+Choose table: 
