@@ -2,6 +2,25 @@
 
 Projeto de segurança Grupo 20
 Projeto feito em python 3.7
+Functionalities implemented:
+
+• Protection (encryption, authentication, etc.) of the
+messages exchanged;
+• Identification of users in a croupier with their Citizen
+Card;
+• Set up of sessions between players and a croupier (using
+the Citizen Card);
+• Set up of sessions between players (using the Citizen
+Card);
+• Agreement to join a table (using the Citizen Card);
+• Deck secure distribution protocol;
+• Validation of the cards played during a game by each
+player;
+• Protest against cheating;
+• Possibility of cheating;
+• Game accounting agreement;
+• Blockchain for accounting;
+
 
 ## Installation
 
